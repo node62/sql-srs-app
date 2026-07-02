@@ -1,0 +1,4505 @@
+[
+  {
+    "id": "bt1_0",
+    "name": "Select all sql",
+    "difficulty": "Unknown",
+    "link": "https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true",
+    "tags": [
+      "BT Assignment",
+      "BT1"
+    ],
+    "type": "link",
+    "globalOrder": 0
+  },
+  {
+    "id": "bt1_1",
+    "name": "Weather observation station 1",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true",
+    "tags": [
+      "BT Assignment",
+      "BT1",
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 1,
+    "qbOrder": {
+      "hackerrank": 6
+    }
+  },
+  {
+    "id": "bt1_2",
+    "name": "Select by id",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true",
+    "tags": [
+      "BT Assignment",
+      "BT1",
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 2,
+    "qbOrder": {
+      "hackerrank": 3
+    }
+  },
+  {
+    "id": "bt1_3",
+    "name": "Japanese cities name",
+    "difficulty": "Unknown",
+    "link": "https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true",
+    "tags": [
+      "BT Assignment",
+      "BT1"
+    ],
+    "type": "link",
+    "globalOrder": 3
+  },
+  {
+    "id": "bt1_4",
+    "name": "Revising the select query 2",
+    "difficulty": "Unknown",
+    "link": "https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true",
+    "tags": [
+      "BT Assignment",
+      "BT1"
+    ],
+    "type": "link",
+    "globalOrder": 4
+  },
+  {
+    "id": "bt1_5",
+    "name": "Salary of employees",
+    "difficulty": "Unknown",
+    "link": "https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true",
+    "tags": [
+      "BT Assignment",
+      "BT1"
+    ],
+    "type": "link",
+    "globalOrder": 5
+  },
+  {
+    "id": "bt1_6",
+    "name": "Weather observation station 3",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true",
+    "tags": [
+      "BT Assignment",
+      "BT1",
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 6,
+    "qbOrder": {
+      "hackerrank": 7
+    }
+  },
+  {
+    "id": "bt1_7",
+    "name": "Weather observation station 4",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true",
+    "tags": [
+      "BT Assignment",
+      "BT1",
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 7,
+    "qbOrder": {
+      "hackerrank": 8
+    }
+  },
+  {
+    "id": "bt1_8",
+    "name": "Weather observation station 6",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true",
+    "tags": [
+      "BT Assignment",
+      "BT1",
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 8,
+    "qbOrder": {
+      "hackerrank": 10
+    }
+  },
+  {
+    "id": "bt1_9",
+    "name": "Weather observation station 8",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true",
+    "tags": [
+      "BT Assignment",
+      "BT1",
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 9,
+    "qbOrder": {
+      "hackerrank": 12
+    }
+  },
+  {
+    "id": "bt1_10",
+    "name": "Weather observation station 11",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true",
+    "tags": [
+      "BT Assignment",
+      "BT1",
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 10,
+    "qbOrder": {
+      "hackerrank": 15
+    }
+  },
+  {
+    "id": "bt1_11",
+    "name": "Name of employees",
+    "difficulty": "Unknown",
+    "link": "https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true",
+    "tags": [
+      "BT Assignment",
+      "BT1"
+    ],
+    "type": "link",
+    "globalOrder": 11
+  },
+  {
+    "id": "bt1_12",
+    "name": "Revising aggregations the count function",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true",
+    "tags": [
+      "BT Assignment",
+      "BT1",
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 12,
+    "qbOrder": {
+      "hackerrank": 25
+    }
+  },
+  {
+    "id": "bt1_13",
+    "name": "Revising aggregations sum",
+    "difficulty": "Unknown",
+    "link": "https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true",
+    "tags": [
+      "BT Assignment",
+      "BT1"
+    ],
+    "type": "link",
+    "globalOrder": 13
+  },
+  {
+    "id": "bt1_14",
+    "name": "Weather observation station 14",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/weather-observation-station-14/problem?isFullScreen=true",
+    "tags": [
+      "BT Assignment",
+      "BT1",
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 14,
+    "qbOrder": {
+      "hackerrank": 35
+    }
+  },
+  {
+    "id": "bt1_15",
+    "name": "Number of unique subjects taught by each teacher",
+    "difficulty": "Unknown",
+    "link": "https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/?envType=study-plan-v2&envId=top-sql-50",
+    "tags": [
+      "BT Assignment",
+      "BT1"
+    ],
+    "type": "link",
+    "globalOrder": 15
+  },
+  {
+    "id": "bt1_16",
+    "name": "User activity for the past 30 days i",
+    "difficulty": "Unknown",
+    "link": "https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/?envType=study-plan-v2&envId=top-sql-50",
+    "tags": [
+      "BT Assignment",
+      "BT1"
+    ],
+    "type": "link",
+    "globalOrder": 16
+  },
+  {
+    "id": "bt1_17",
+    "name": "Classes with at least 5 students",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/classes-with-at-least-5-students/?envType=study-plan-v2&envId=top-sql-50",
+    "tags": [
+      "BT Assignment",
+      "BT1",
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 17,
+    "qbOrder": {
+      "leetcode-sql-50": 25
+    }
+  },
+  {
+    "id": "bt1_18",
+    "name": "Find followers count",
+    "difficulty": "Unknown",
+    "link": "https://leetcode.com/problems/find-followers-count/description/?envType=study-plan-v2&envId=top-sql-50",
+    "tags": [
+      "BT Assignment",
+      "BT1"
+    ],
+    "type": "link",
+    "globalOrder": 18
+  },
+  {
+    "id": "bt1_19",
+    "name": "Triangle judgement",
+    "difficulty": "Unknown",
+    "link": "https://leetcode.com/problems/triangle-judgement/description/?envType=study-plan-v2&envId=top-sql-50",
+    "tags": [
+      "BT Assignment",
+      "BT1"
+    ],
+    "type": "link",
+    "globalOrder": 19
+  },
+  {
+    "id": "bt1_20",
+    "name": "Earnings of employees",
+    "difficulty": "Unknown",
+    "link": "https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true",
+    "tags": [
+      "BT Assignment",
+      "BT1"
+    ],
+    "type": "link",
+    "globalOrder": 20
+  },
+  {
+    "id": "bt1_21",
+    "name": "Monthly transactions i",
+    "difficulty": "Unknown",
+    "link": "https://leetcode.com/problems/monthly-transactions-i/description/?envType=study-plan-v2&envId=top-sql-50",
+    "tags": [
+      "BT Assignment",
+      "BT1"
+    ],
+    "type": "link",
+    "globalOrder": 21
+  },
+  {
+    "id": "bt3_22",
+    "name": "1. List all customers and their orders. Include customers with no orders.",
+    "hint": "Use LEFT JOIN and then use UNION with a subquery",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 22
+  },
+  {
+    "id": "bt3_23",
+    "name": "2. Find orders placed by customers from the USA.",
+    "hint": "Use INNER JOIN or subquery with IN",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 23
+  },
+  {
+    "id": "bt3_24",
+    "name": "3. Get a list of all customers and products, even if they aren’t related.",
+    "hint": "Use CROSS JOIN",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 24
+  },
+  {
+    "id": "bt3_25",
+    "name": "4. List all employees and their manager names.",
+    "hint": "Use SELF JOIN on Employees. Output includes manager name column using manager_id.",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 25
+  },
+  {
+    "id": "bt3_26",
+    "name": "5. List all orders and include customer names, even if the customer is unknown.",
+    "hint": "Use RIGHT JOIN (rare), or FULL OUTER JOIN",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 26
+  },
+  {
+    "id": "bt3_27",
+    "name": "6. Find customers who placed at least one order.",
+    "hint": "Use INNER JOIN or EXISTS",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 27
+  },
+  {
+    "id": "bt3_28",
+    "name": "7. Show all customers who haven’t ordered any products.",
+    "hint": "Use LEFT JOIN + IS NULL or NOT EXISTS",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 28
+  },
+  {
+    "id": "bt3_29",
+    "name": "8. List products and the total quantity ordered, including products never ordered.",
+    "hint": "Use LEFT JOIN from products to order_items",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 29
+  },
+  {
+    "id": "bt3_30",
+    "name": "9. Show pairs of employees who belong to the same department.",
+    "hint": "Use SELF JOIN with a WHERE e1.emp_id != e2.emp_id",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 30
+  },
+  {
+    "id": "bt3_31",
+    "name": "10. List customer-product pairs for every order placed.",
+    "hint": "Join Orders, Order_Items, Products",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 31
+  },
+  {
+    "id": "bt3_32",
+    "name": "11. List all names from customers and employees (no duplicates).",
+    "hint": "Use UNION",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 32
+  },
+  {
+    "id": "bt3_33",
+    "name": "12. List all names from customers and employees (with duplicates).",
+    "hint": "Use UNION ALL",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 33
+  },
+  {
+    "id": "bt3_34",
+    "name": "13. Find all IDs that appear in both Customers and Employees.",
+    "hint": "Use INTERSECT (if supported) or IN subquery",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 34
+  },
+  {
+    "id": "bt3_35",
+    "name": "14. List all orders and employees by their ID and name in a combined view.",
+    "hint": "Use UNION ALL + aliases",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 35
+  },
+  {
+    "id": "bt3_36",
+    "name": "15. Return only the unique customer countries and employee departments.",
+    "hint": "Use UNION with alias as \"Region\"",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 36
+  },
+  {
+    "id": "bt3_37",
+    "name": "16. Get a combined list of customer and product names.",
+    "hint": "Use UNION between Customers and Products",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 37
+  },
+  {
+    "id": "bt3_38",
+    "name": "17. Find customers who have placed more than 1 order.",
+    "hint": "Use correlated subquery or group by + having",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 38
+  },
+  {
+    "id": "bt3_39",
+    "name": "18. List orders with amount above the average.",
+    "hint": "Use scalar subquery",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 39
+  },
+  {
+    "id": "bt3_40",
+    "name": "19. Get customers who ordered a Phone.",
+    "hint": "Use subquery or JOIN with filter on product_name",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 40
+  },
+  {
+    "id": "bt3_41",
+    "name": "20. Return products that were never ordered.",
+    "hint": "Use NOT EXISTS or LEFT JOIN + IS NULL",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 41
+  },
+  {
+    "id": "bt3_42",
+    "name": "21. List customers who ordered all product categories.",
+    "hint": "Use subquery with GROUP BY and comparison",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 42
+  },
+  {
+    "id": "bt3_43",
+    "name": "22. Find orders with the maximum amount.",
+    "hint": "Scalar subquery or window function",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 43
+  },
+  {
+    "id": "bt3_44",
+    "name": "23. Find customers whose average order amount is greater than the average order amount of all the orders",
+    "hint": "",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 44
+  },
+  {
+    "id": "bt3_45",
+    "name": "24. List customers who placed orders only in January.",
+    "hint": "Correlated subquery with NOT EXISTS for other months",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 45
+  },
+  {
+    "id": "bt3_46",
+    "name": "25. Find top 1 recent order per product.",
+    "hint": "Correlated subquery or ROW_NUMBER()",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 46
+  },
+  {
+    "id": "bt3_47",
+    "name": "26. Find customers whose total order amount > the average of the total order amounts of all customers",
+    "hint": "Use subquery for avg",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 47
+  },
+  {
+    "id": "bt3_48",
+    "name": "27. List customers with their latest order date and total amount spent.",
+    "hint": "Use subquery or JOIN + GROUP BY",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 48
+  },
+  {
+    "id": "bt3_49",
+    "name": "28. Show all combinations of customer and their ordered products.",
+    "hint": "Multiple JOINs or subquery",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 49
+  },
+  {
+    "id": "bt3_50",
+    "name": "29. List products bought in the most recent order.",
+    "hint": "Use subquery for latest date, then JOIN",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 50
+  },
+  {
+    "id": "bt3_51",
+    "name": "30. Find employees who are not managing anyone.",
+    "hint": "Subquery with NOT IN (SELECT manager_id)",
+    "difficulty": "Unknown",
+    "tags": [
+      "BT Assignment",
+      "BT3"
+    ],
+    "type": "text",
+    "globalOrder": 51
+  },
+  {
+    "id": "bt4_0",
+    "name": "Rising Temperature",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/rising-temperature/",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "LeetCode",
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 52,
+    "qbOrder": {
+      "leetcode-sql-50": 8
+    }
+  },
+  {
+    "id": "bt4_1",
+    "name": "Cards Issued Difference",
+    "difficulty": "Easy",
+    "link": "https://datalemur.com/questions/cards-issued-difference",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "DataLemur",
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 53,
+    "qbOrder": {
+      "data-lemur": 15
+    }
+  },
+  {
+    "id": "bt4_2",
+    "name": "Average Post Hiatus",
+    "difficulty": "Easy",
+    "link": "https://datalemur.com/questions/sql-average-post-hiatus-1",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "DataLemur",
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 54,
+    "qbOrder": {
+      "data-lemur": 5
+    }
+  },
+  {
+    "id": "bt4_3",
+    "name": "Teams Power Users",
+    "difficulty": "Easy",
+    "link": "https://datalemur.com/questions/teams-power-users",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "DataLemur",
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 55,
+    "qbOrder": {
+      "data-lemur": 6
+    }
+  },
+  {
+    "id": "bt4_4",
+    "name": "App Click-through Rate",
+    "difficulty": "Easy",
+    "link": "https://datalemur.com/questions/click-through-rate",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "DataLemur",
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 56,
+    "qbOrder": {
+      "data-lemur": 12
+    }
+  },
+  {
+    "id": "bt4_5",
+    "name": "Second Day Confirmation",
+    "difficulty": "Easy",
+    "link": "https://datalemur.com/questions/second-day-confirmation",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "DataLemur",
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 57,
+    "qbOrder": {
+      "data-lemur": 13
+    }
+  },
+  {
+    "id": "bt4_6",
+    "name": "Users By Average Session Time",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/10352-users-by-avg-session-time",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "StrataScratch",
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 58,
+    "qbOrder": {
+      "stratascratch": 5
+    }
+  },
+  {
+    "id": "bt4_7",
+    "name": "Highest Cost Orders",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/9915-highest-cost-orders",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "StrataScratch",
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 59,
+    "isPaid": true
+  },
+  {
+    "id": "bt4_8",
+    "name": "Tree Node",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/tree-node/",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "LeetCode"
+    ],
+    "type": "link",
+    "globalOrder": 60
+  },
+  {
+    "id": "bt4_9",
+    "name": "Product Price at a Given Date",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/product-price-at-a-given-date/",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "LeetCode",
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 61,
+    "qbOrder": {
+      "leetcode-sql-50": 33
+    }
+  },
+  {
+    "id": "bt4_10",
+    "name": "Restaurant Growth",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/restaurant-growth/",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "LeetCode",
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 62,
+    "qbOrder": {
+      "leetcode-sql-50": 39
+    }
+  },
+  {
+    "id": "bt4_11",
+    "name": "Highest Energy Consumption",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/10064-highest-energy-consumption",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "StrataScratch",
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 63,
+    "isPaid": true
+  },
+  {
+    "id": "bt4_12",
+    "name": "Immediate Food Delivery II",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/immediate-food-delivery-ii/",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "LeetCode",
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 64,
+    "qbOrder": {
+      "leetcode-sql-50": 20
+    }
+  },
+  {
+    "id": "bt4_13",
+    "name": "Game Play Analysis IV",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/game-play-analysis-iv/",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "LeetCode",
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 65,
+    "qbOrder": {
+      "leetcode-sql-50": 21
+    }
+  },
+  {
+    "id": "bt4_14",
+    "name": "Product Sales Analysis III",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/product-sales-analysis-iii/",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "LeetCode",
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 66,
+    "qbOrder": {
+      "leetcode-sql-50": 24
+    }
+  },
+  {
+    "id": "bt4_15",
+    "name": "Customers Who Bought All Products",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/customers-who-bought-all-products/",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "LeetCode",
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 67,
+    "qbOrder": {
+      "leetcode-sql-50": 28
+    }
+  },
+  {
+    "id": "bt4_16",
+    "name": "Consecutive Numbers",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/consecutive-numbers/",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "LeetCode",
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 68,
+    "qbOrder": {
+      "leetcode-sql-50": 32
+    }
+  },
+  {
+    "id": "bt4_17",
+    "name": "Last Person to Fit in the Bus",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/last-person-to-fit-in-the-bus/",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "LeetCode",
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 69,
+    "qbOrder": {
+      "leetcode-sql-50": 34
+    }
+  },
+  {
+    "id": "bt4_18",
+    "name": "Premium vs Freemium",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/10300-premium-vs-freemium",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "StrataScratch",
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 70,
+    "isPaid": true
+  },
+  {
+    "id": "bt4_19",
+    "name": "Acceptance Rate By Date",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/10285-acceptance-rate-by-date",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "StrataScratch",
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 71,
+    "qbOrder": {
+      "stratascratch": 6
+    }
+  },
+  {
+    "id": "bt4_20",
+    "name": "Friend Requests II: Who Has the Most Friends",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "LeetCode",
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 72,
+    "qbOrder": {
+      "leetcode-sql-50": 40
+    }
+  },
+  {
+    "id": "bt4_21",
+    "name": "Tweets' Rolling Averages",
+    "difficulty": "Medium",
+    "link": "https://datalemur.com/questions/rolling-average-tweets",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "DataLemur",
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 73,
+    "qbOrder": {
+      "data-lemur": 24
+    }
+  },
+  {
+    "id": "bt4_22",
+    "name": "Supercloud Customer",
+    "difficulty": "Medium",
+    "link": "https://datalemur.com/questions/supercloud-customer",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "DataLemur",
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 74,
+    "qbOrder": {
+      "data-lemur": 29
+    }
+  },
+  {
+    "id": "bt4_23",
+    "name": "Odd and Even Measurements",
+    "difficulty": "Medium",
+    "link": "https://datalemur.com/questions/odd-even-measurements",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "DataLemur",
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 75,
+    "qbOrder": {
+      "data-lemur": 30
+    }
+  },
+  {
+    "id": "bt4_24",
+    "name": "Highest-Grossing Items",
+    "difficulty": "Medium",
+    "link": "https://datalemur.com/questions/sql-highest-grossing",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "DataLemur",
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 76,
+    "qbOrder": {
+      "data-lemur": 25
+    }
+  },
+  {
+    "id": "bt4_25",
+    "name": "Second Highest Salary",
+    "difficulty": "Medium",
+    "link": "https://datalemur.com/questions/sql-second-highest-salary",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "DataLemur",
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 77,
+    "qbOrder": {
+      "data-lemur": 22
+    }
+  },
+  {
+    "id": "bt4_26",
+    "name": "User Shopping Sprees",
+    "difficulty": "Medium",
+    "link": "https://datalemur.com/questions/amazon-shopping-spree",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "DataLemur",
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 78,
+    "qbOrder": {
+      "data-lemur": 34
+    }
+  },
+  {
+    "id": "bt4_27",
+    "name": "Histogram of Users and Purchases",
+    "difficulty": "Medium",
+    "link": "https://datalemur.com/questions/histogram-users-purchases",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "DataLemur",
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 79,
+    "qbOrder": {
+      "data-lemur": 35
+    }
+  },
+  {
+    "id": "bt4_28",
+    "name": "Finding User Purchases",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/10322-finding-user-purchases",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "StrataScratch",
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 80,
+    "qbOrder": {
+      "stratascratch": 7
+    }
+  },
+  {
+    "id": "bt4_29",
+    "name": "City With The Highest and Lowest Income Variance",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/2015-city-with-the-highest-and-lowest-income-variance",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "StrataScratch",
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 81,
+    "isPaid": true
+  },
+  {
+    "id": "bt4_30",
+    "name": "Ranking Most Active Guests",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/10159-ranking-most-active-guests",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "StrataScratch",
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 82,
+    "qbOrder": {
+      "stratascratch": 14
+    }
+  },
+  {
+    "id": "bt4_31",
+    "name": "Hour With The Highest Order Volume",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/2014-hour-with-the-highest-order-volume",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "StrataScratch",
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 83,
+    "isPaid": true
+  },
+  {
+    "id": "bt4_32",
+    "name": "Common Friends Friend",
+    "difficulty": "Hard",
+    "link": "https://platform.stratascratch.com/coding/9821-common-friends-friend",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "StrataScratch",
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 84,
+    "isPaid": true
+  },
+  {
+    "id": "bt4_33",
+    "name": "Year Over Year Growth Rates",
+    "difficulty": "Hard",
+    "link": "https://datalemur.com/questions/yoy-growth-rate",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "DataLemur",
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 85,
+    "qbOrder": {
+      "data-lemur": 41
+    }
+  },
+  {
+    "id": "bt4_34",
+    "name": "Repeated Payments",
+    "difficulty": "Hard",
+    "link": "https://datalemur.com/questions/repeated-payments",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "DataLemur",
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 86,
+    "qbOrder": {
+      "data-lemur": 50
+    }
+  },
+  {
+    "id": "bt4_35",
+    "name": "Active User Retention",
+    "difficulty": "Hard",
+    "link": "https://datalemur.com/questions/user-retention",
+    "tags": [
+      "BT Assignment",
+      "BT4",
+      "DataLemur",
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 87,
+    "qbOrder": {
+      "data-lemur": 40
+    }
+  },
+  {
+    "id": "bt_pyq_0",
+    "name": "Question 01",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/01.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_1",
+    "name": "Question 02",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/02.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_2",
+    "name": "Question 03",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/03.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_3",
+    "name": "Question 04",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/04.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_4",
+    "name": "Question 05",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/05.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_5",
+    "name": "Question 06",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/06.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_6",
+    "name": "Question 07",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/07.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_7",
+    "name": "Question 08",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/08.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_8",
+    "name": "Question 09",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/09.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_9",
+    "name": "Question 10",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/10.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_10",
+    "name": "Question 11",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/11.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_11",
+    "name": "Question 12",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/12.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_12",
+    "name": "Question 13",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/13.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_13",
+    "name": "Question 14",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/14.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_14",
+    "name": "Question 15",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/15.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_15",
+    "name": "Question 16",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/16.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_16",
+    "name": "Question 17",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/17.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_17",
+    "name": "Question 19",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/19.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_18",
+    "name": "Question 22",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/22.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_19",
+    "name": "Question 23",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/23.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_20",
+    "name": "Question 24",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/24.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_21",
+    "name": "Question 25",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/25.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_22",
+    "name": "Question 27",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/27.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_23",
+    "name": "Question 28",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/28.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_24",
+    "name": "Question 29",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/29.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_25",
+    "name": "Question 30",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/30.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_26",
+    "name": "Question 31",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/31.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_27",
+    "name": "Question 32",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/32.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "bt_pyq_28",
+    "name": "Question 33",
+    "difficulty": "Medium",
+    "link": null,
+    "image": "./BT_pyqs/33.png",
+    "tags": [
+      "BT Assignment",
+      "BT pyqs"
+    ],
+    "type": "image"
+  },
+  {
+    "id": "qb_leetcode-sql-50_0",
+    "name": "Recyclable and Low Fat Products",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/recyclable-and-low-fat-products/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 117,
+    "qbOrder": {
+      "leetcode-sql-50": 0
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_1",
+    "name": "Find Customer Referee",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/find-customer-referee/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 118,
+    "qbOrder": {
+      "leetcode-sql-50": 1
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_2",
+    "name": "Big Countries",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/big-countries/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 119,
+    "qbOrder": {
+      "leetcode-sql-50": 2
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_3",
+    "name": "Article Views I",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/article-views-i/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 120,
+    "qbOrder": {
+      "leetcode-sql-50": 3
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_4",
+    "name": "Invalid Tweets",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/invalid-tweets/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 121,
+    "qbOrder": {
+      "leetcode-sql-50": 4
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_5",
+    "name": "Replace Employee ID With The Unique Identifier",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 122,
+    "qbOrder": {
+      "leetcode-sql-50": 5
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_6",
+    "name": "Product Sales Analysis I",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/product-sales-analysis-i/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 123,
+    "qbOrder": {
+      "leetcode-sql-50": 6
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_7",
+    "name": "Customer Who Visited but Did Not Make Any Transactions",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 124,
+    "qbOrder": {
+      "leetcode-sql-50": 7
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_9",
+    "name": "Average Time of Process per Machine",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/average-time-of-process-per-machine/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 125,
+    "qbOrder": {
+      "leetcode-sql-50": 9
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_10",
+    "name": "Employee Bonus",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/employee-bonus/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 126,
+    "qbOrder": {
+      "leetcode-sql-50": 10
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_11",
+    "name": "Students and Examinations",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/students-and-examinations/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 127,
+    "qbOrder": {
+      "leetcode-sql-50": 11
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_12",
+    "name": "Managers with at Least 5 Direct Reports",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 128,
+    "qbOrder": {
+      "leetcode-sql-50": 12
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_13",
+    "name": "Confirmation Rate",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/confirmation-rate/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 129,
+    "qbOrder": {
+      "leetcode-sql-50": 13
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_14",
+    "name": "Not Boring Movies",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/not-boring-movies/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 130,
+    "qbOrder": {
+      "leetcode-sql-50": 14
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_15",
+    "name": "Average Selling Price",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/average-selling-price/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 131,
+    "qbOrder": {
+      "leetcode-sql-50": 15
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_16",
+    "name": "Project Employees I",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/project-employees-i/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 132,
+    "qbOrder": {
+      "leetcode-sql-50": 16
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_17",
+    "name": "Percentage of Users Attended a Contest",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/percentage-of-users-attended-a-contest/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 133,
+    "qbOrder": {
+      "leetcode-sql-50": 17
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_18",
+    "name": "Queries Quality and Percentage",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/queries-quality-and-percentage/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 134,
+    "qbOrder": {
+      "leetcode-sql-50": 18
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_19",
+    "name": "Monthly Transactions I",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/monthly-transactions-i/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 135,
+    "qbOrder": {
+      "leetcode-sql-50": 19
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_22",
+    "name": "Number of Unique Subjects Taught by Each Teacher",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 136,
+    "qbOrder": {
+      "leetcode-sql-50": 22
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_23",
+    "name": "User Activity for the Past 30 Days I",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/user-activity-for-the-past-30-days-i/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 137,
+    "qbOrder": {
+      "leetcode-sql-50": 23
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_26",
+    "name": "Find Followers Count",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/find-followers-count/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 138,
+    "qbOrder": {
+      "leetcode-sql-50": 26
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_27",
+    "name": "Biggest Single Number",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/biggest-single-number/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 139,
+    "qbOrder": {
+      "leetcode-sql-50": 27
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_29",
+    "name": "The Number of Employees Which Report to Each Employee",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 140,
+    "qbOrder": {
+      "leetcode-sql-50": 29
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_30",
+    "name": "Primary Department for Each Employee",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/primary-department-for-each-employee/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 141,
+    "qbOrder": {
+      "leetcode-sql-50": 30
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_31",
+    "name": "Triangle Judgement",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/triangle-judgement/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 142,
+    "qbOrder": {
+      "leetcode-sql-50": 31
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_35",
+    "name": "Count Salary Categories",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-salary-categories/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 143,
+    "qbOrder": {
+      "leetcode-sql-50": 35
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_36",
+    "name": "Employees Whose Manager Left the Company",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/employees-whose-manager-left-the-company/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 144,
+    "qbOrder": {
+      "leetcode-sql-50": 36
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_37",
+    "name": "Exchange Seats",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/exchange-seats/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 145,
+    "qbOrder": {
+      "leetcode-sql-50": 37
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_38",
+    "name": "Movie Rating",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/movie-rating/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 146,
+    "qbOrder": {
+      "leetcode-sql-50": 38
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_41",
+    "name": "Investments in 2016",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/investments-in-2016/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 147,
+    "qbOrder": {
+      "leetcode-sql-50": 41
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_42",
+    "name": "Department Top Three Salaries",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/department-top-three-salaries/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 148,
+    "qbOrder": {
+      "leetcode-sql-50": 42
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_43",
+    "name": "Fix Names in a Table",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/fix-names-in-a-table/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 149,
+    "qbOrder": {
+      "leetcode-sql-50": 43
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_44",
+    "name": "Patients With a Condition",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/patients-with-a-condition/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 150,
+    "qbOrder": {
+      "leetcode-sql-50": 44
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_45",
+    "name": "Delete Duplicate Emails",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/delete-duplicate-emails/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 151,
+    "qbOrder": {
+      "leetcode-sql-50": 45
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_46",
+    "name": "Second Highest Salary",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/second-highest-salary/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 152,
+    "qbOrder": {
+      "leetcode-sql-50": 46
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_47",
+    "name": "Group Sold Products By The Date",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/group-sold-products-by-the-date/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 153,
+    "qbOrder": {
+      "leetcode-sql-50": 47
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_48",
+    "name": "List the Products Ordered in a Period",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/list-the-products-ordered-in-a-period/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 154,
+    "qbOrder": {
+      "leetcode-sql-50": 48
+    }
+  },
+  {
+    "id": "qb_leetcode-sql-50_49",
+    "name": "Find Users With Valid E-Mails",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/find-users-with-valid-e-mails/",
+    "tags": [
+      "Question Bank",
+      "leetcode-sql-50"
+    ],
+    "type": "link",
+    "globalOrder": 155,
+    "qbOrder": {
+      "leetcode-sql-50": 49
+    }
+  },
+  {
+    "id": "qb_hackerrank_0",
+    "name": "Revising the Select Query I",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/revising-the-select-query-i/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 156,
+    "qbOrder": {
+      "hackerrank": 0
+    }
+  },
+  {
+    "id": "qb_hackerrank_1",
+    "name": "Revising the Select Query II",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/revising-the-select-query-ii/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 157,
+    "qbOrder": {
+      "hackerrank": 1
+    }
+  },
+  {
+    "id": "qb_hackerrank_2",
+    "name": "Select All",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/select-all/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 158,
+    "qbOrder": {
+      "hackerrank": 2
+    }
+  },
+  {
+    "id": "qb_hackerrank_4",
+    "name": "Japanese Cities' Attributes",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/japanese-cities-attributes/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 159,
+    "qbOrder": {
+      "hackerrank": 4
+    }
+  },
+  {
+    "id": "qb_hackerrank_5",
+    "name": "Japanese Cities' Names",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/japanese-cities-names/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 160,
+    "qbOrder": {
+      "hackerrank": 5
+    }
+  },
+  {
+    "id": "qb_hackerrank_9",
+    "name": "Weather Observation Station 5",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/weather-observation-station-5/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 161,
+    "qbOrder": {
+      "hackerrank": 9
+    }
+  },
+  {
+    "id": "qb_hackerrank_11",
+    "name": "Weather Observation Station 7",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/weather-observation-station-7/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 162,
+    "qbOrder": {
+      "hackerrank": 11
+    }
+  },
+  {
+    "id": "qb_hackerrank_13",
+    "name": "Weather Observation Station 9",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/weather-observation-station-9/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 163,
+    "qbOrder": {
+      "hackerrank": 13
+    }
+  },
+  {
+    "id": "qb_hackerrank_14",
+    "name": "Weather Observation Station 10",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/weather-observation-station-10/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 164,
+    "qbOrder": {
+      "hackerrank": 14
+    }
+  },
+  {
+    "id": "qb_hackerrank_16",
+    "name": "Weather Observation Station 12",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/weather-observation-station-12/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 165,
+    "qbOrder": {
+      "hackerrank": 16
+    }
+  },
+  {
+    "id": "qb_hackerrank_17",
+    "name": "Higher Than 75 Marks",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/higher-than-75-marks/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 166,
+    "qbOrder": {
+      "hackerrank": 17
+    }
+  },
+  {
+    "id": "qb_hackerrank_18",
+    "name": "Employee Names",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/employee-names/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 167,
+    "qbOrder": {
+      "hackerrank": 18
+    }
+  },
+  {
+    "id": "qb_hackerrank_19",
+    "name": "Employee Salaries",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/employee-salaries/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 168,
+    "qbOrder": {
+      "hackerrank": 19
+    }
+  },
+  {
+    "id": "qb_hackerrank_20",
+    "name": "Type of Triangle",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/type-of-triangle/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 169,
+    "qbOrder": {
+      "hackerrank": 20
+    }
+  },
+  {
+    "id": "qb_hackerrank_21",
+    "name": "The PADS",
+    "difficulty": "Medium",
+    "link": "https://www.hackerrank.com/challenges/the-pads/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 170,
+    "qbOrder": {
+      "hackerrank": 21
+    }
+  },
+  {
+    "id": "qb_hackerrank_22",
+    "name": "Occupations",
+    "difficulty": "Medium",
+    "link": "https://www.hackerrank.com/challenges/occupations/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 171,
+    "qbOrder": {
+      "hackerrank": 22
+    }
+  },
+  {
+    "id": "qb_hackerrank_23",
+    "name": "Binary Tree Nodes",
+    "difficulty": "Medium",
+    "link": "https://www.hackerrank.com/challenges/binary-tree-nodes/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 172,
+    "qbOrder": {
+      "hackerrank": 23
+    }
+  },
+  {
+    "id": "qb_hackerrank_24",
+    "name": "New Companies",
+    "difficulty": "Medium",
+    "link": "https://www.hackerrank.com/challenges/new-companies/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 173,
+    "qbOrder": {
+      "hackerrank": 24
+    }
+  },
+  {
+    "id": "qb_hackerrank_26",
+    "name": "Revising Aggregations - The Sum Function",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/revising-aggregations-the-sum-function/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 174,
+    "qbOrder": {
+      "hackerrank": 26
+    }
+  },
+  {
+    "id": "qb_hackerrank_27",
+    "name": "Revising Aggregations - Averages",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/revising-aggregations-averages/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 175,
+    "qbOrder": {
+      "hackerrank": 27
+    }
+  },
+  {
+    "id": "qb_hackerrank_28",
+    "name": "Average Population",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/average-population/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 176,
+    "qbOrder": {
+      "hackerrank": 28
+    }
+  },
+  {
+    "id": "qb_hackerrank_29",
+    "name": "Japan Population",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/japan-population/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 177,
+    "qbOrder": {
+      "hackerrank": 29
+    }
+  },
+  {
+    "id": "qb_hackerrank_30",
+    "name": "Population Density Difference",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/population-density-difference/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 178,
+    "qbOrder": {
+      "hackerrank": 30
+    }
+  },
+  {
+    "id": "qb_hackerrank_31",
+    "name": "The Blunder",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/the-blunder/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 179,
+    "qbOrder": {
+      "hackerrank": 31
+    }
+  },
+  {
+    "id": "qb_hackerrank_32",
+    "name": "Top Earners",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/top-earners/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 180,
+    "qbOrder": {
+      "hackerrank": 32
+    }
+  },
+  {
+    "id": "qb_hackerrank_33",
+    "name": "Weather Observation Station 2",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/weather-observation-station-2/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 181,
+    "qbOrder": {
+      "hackerrank": 33
+    }
+  },
+  {
+    "id": "qb_hackerrank_34",
+    "name": "Weather Observation Station 13",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/weather-observation-station-13/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 182,
+    "qbOrder": {
+      "hackerrank": 34
+    }
+  },
+  {
+    "id": "qb_hackerrank_36",
+    "name": "Weather Observation Station 15",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/weather-observation-station-15/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 183,
+    "qbOrder": {
+      "hackerrank": 36
+    }
+  },
+  {
+    "id": "qb_hackerrank_37",
+    "name": "Weather Observation Station 16",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/weather-observation-station-16/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 184,
+    "qbOrder": {
+      "hackerrank": 37
+    }
+  },
+  {
+    "id": "qb_hackerrank_38",
+    "name": "Weather Observation Station 17",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/weather-observation-station-17/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 185,
+    "qbOrder": {
+      "hackerrank": 38
+    }
+  },
+  {
+    "id": "qb_hackerrank_39",
+    "name": "Weather Observation Station 18",
+    "difficulty": "Medium",
+    "link": "https://www.hackerrank.com/challenges/weather-observation-station-18/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 186,
+    "qbOrder": {
+      "hackerrank": 39
+    }
+  },
+  {
+    "id": "qb_hackerrank_40",
+    "name": "Weather Observation Station 19",
+    "difficulty": "Medium",
+    "link": "https://www.hackerrank.com/challenges/weather-observation-station-19/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 187,
+    "qbOrder": {
+      "hackerrank": 40
+    }
+  },
+  {
+    "id": "qb_hackerrank_41",
+    "name": "Weather Observation Station 20",
+    "difficulty": "Medium",
+    "link": "https://www.hackerrank.com/challenges/weather-observation-station-20/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 188,
+    "qbOrder": {
+      "hackerrank": 41
+    }
+  },
+  {
+    "id": "qb_hackerrank_42",
+    "name": "Population Census",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/population-census/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 189,
+    "qbOrder": {
+      "hackerrank": 42
+    }
+  },
+  {
+    "id": "qb_hackerrank_43",
+    "name": "African Cities",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/african-cities/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 190,
+    "qbOrder": {
+      "hackerrank": 43
+    }
+  },
+  {
+    "id": "qb_hackerrank_44",
+    "name": "Average Population of Each Continent",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/average-population-of-each-continent/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 191,
+    "qbOrder": {
+      "hackerrank": 44
+    }
+  },
+  {
+    "id": "qb_hackerrank_45",
+    "name": "The Report",
+    "difficulty": "Medium",
+    "link": "https://www.hackerrank.com/challenges/the-report/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 192,
+    "qbOrder": {
+      "hackerrank": 45
+    }
+  },
+  {
+    "id": "qb_hackerrank_46",
+    "name": "Top Competitors",
+    "difficulty": "Medium",
+    "link": "https://www.hackerrank.com/challenges/top-competitors/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 193,
+    "qbOrder": {
+      "hackerrank": 46
+    }
+  },
+  {
+    "id": "qb_hackerrank_47",
+    "name": "Ollivander's Inventory",
+    "difficulty": "Medium",
+    "link": "https://www.hackerrank.com/challenges/ollivanders-inventory/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 194,
+    "qbOrder": {
+      "hackerrank": 47
+    }
+  },
+  {
+    "id": "qb_hackerrank_48",
+    "name": "Challenges",
+    "difficulty": "Medium",
+    "link": "https://www.hackerrank.com/challenges/challenges/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 195,
+    "qbOrder": {
+      "hackerrank": 48
+    }
+  },
+  {
+    "id": "qb_hackerrank_49",
+    "name": "Contest Leaderboard",
+    "difficulty": "Medium",
+    "link": "https://www.hackerrank.com/challenges/contest-leaderboard/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 196,
+    "qbOrder": {
+      "hackerrank": 49
+    }
+  },
+  {
+    "id": "qb_hackerrank_50",
+    "name": "SQL Project Planning",
+    "difficulty": "Medium",
+    "link": "https://www.hackerrank.com/challenges/sql-project-planning/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 197,
+    "qbOrder": {
+      "hackerrank": 50
+    }
+  },
+  {
+    "id": "qb_hackerrank_51",
+    "name": "Placements",
+    "difficulty": "Medium",
+    "link": "https://www.hackerrank.com/challenges/placements/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 198,
+    "qbOrder": {
+      "hackerrank": 51
+    }
+  },
+  {
+    "id": "qb_hackerrank_52",
+    "name": "Symmetric Pairs",
+    "difficulty": "Medium",
+    "link": "https://www.hackerrank.com/challenges/symmetric-pairs/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 199,
+    "qbOrder": {
+      "hackerrank": 52
+    }
+  },
+  {
+    "id": "qb_hackerrank_53",
+    "name": "Interviews",
+    "difficulty": "Hard",
+    "link": "https://www.hackerrank.com/challenges/interviews/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 200,
+    "qbOrder": {
+      "hackerrank": 53
+    }
+  },
+  {
+    "id": "qb_hackerrank_54",
+    "name": "15 Days of Learning SQL",
+    "difficulty": "Hard",
+    "link": "https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 201,
+    "qbOrder": {
+      "hackerrank": 54
+    }
+  },
+  {
+    "id": "qb_hackerrank_55",
+    "name": "Draw The Triangle 1",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/draw-the-triangle-1/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 202,
+    "qbOrder": {
+      "hackerrank": 55
+    }
+  },
+  {
+    "id": "qb_hackerrank_56",
+    "name": "Draw The Triangle 2",
+    "difficulty": "Easy",
+    "link": "https://www.hackerrank.com/challenges/draw-the-triangle-2/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 203,
+    "qbOrder": {
+      "hackerrank": 56
+    }
+  },
+  {
+    "id": "qb_hackerrank_57",
+    "name": "Print Prime Numbers",
+    "difficulty": "Medium",
+    "link": "https://www.hackerrank.com/challenges/print-prime-numbers/problem",
+    "tags": [
+      "Question Bank",
+      "hackerrank"
+    ],
+    "type": "link",
+    "globalOrder": 204,
+    "qbOrder": {
+      "hackerrank": 57
+    }
+  },
+  {
+    "id": "qb_data-lemur_0",
+    "name": "Histogram of Tweets",
+    "difficulty": "Easy",
+    "link": "https://datalemur.com/questions/sql-histogram-tweets",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 205,
+    "qbOrder": {
+      "data-lemur": 0
+    }
+  },
+  {
+    "id": "qb_data-lemur_1",
+    "name": "Data Science Skills",
+    "difficulty": "Easy",
+    "link": "https://datalemur.com/questions/matching-skills",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 206,
+    "qbOrder": {
+      "data-lemur": 1
+    }
+  },
+  {
+    "id": "qb_data-lemur_2",
+    "name": "Page With No Likes",
+    "difficulty": "Easy",
+    "link": "https://datalemur.com/questions/sql-page-with-no-likes",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 207,
+    "qbOrder": {
+      "data-lemur": 2
+    }
+  },
+  {
+    "id": "qb_data-lemur_3",
+    "name": "Unfinished Parts",
+    "difficulty": "Easy",
+    "link": "https://datalemur.com/questions/tesla-unfinished-parts",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 208,
+    "qbOrder": {
+      "data-lemur": 3
+    }
+  },
+  {
+    "id": "qb_data-lemur_4",
+    "name": "Laptop vs. Mobile Viewership",
+    "difficulty": "Easy",
+    "link": "https://datalemur.com/questions/laptop-mobile-viewership",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 209,
+    "qbOrder": {
+      "data-lemur": 4
+    }
+  },
+  {
+    "id": "qb_data-lemur_7",
+    "name": "Duplicate Job Listings",
+    "difficulty": "Easy",
+    "link": "https://datalemur.com/questions/duplicate-job-listings",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 210,
+    "qbOrder": {
+      "data-lemur": 7
+    }
+  },
+  {
+    "id": "qb_data-lemur_8",
+    "name": "Cities With Completed Trades",
+    "difficulty": "Easy",
+    "link": "https://datalemur.com/questions/completed-trades",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 211,
+    "qbOrder": {
+      "data-lemur": 8
+    }
+  },
+  {
+    "id": "qb_data-lemur_9",
+    "name": "Average Review Ratings",
+    "difficulty": "Easy",
+    "link": "https://datalemur.com/questions/sql-avg-review-ratings",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 212,
+    "qbOrder": {
+      "data-lemur": 9
+    }
+  },
+  {
+    "id": "qb_data-lemur_10",
+    "name": "Well Paid Employees",
+    "difficulty": "Easy",
+    "link": "https://datalemur.com/questions/sql-well-paid-employees",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 213,
+    "qbOrder": {
+      "data-lemur": 10
+    }
+  },
+  {
+    "id": "qb_data-lemur_11",
+    "name": "Final Account Balance",
+    "difficulty": "Easy",
+    "link": "https://datalemur.com/questions/final-account-balance",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 214,
+    "qbOrder": {
+      "data-lemur": 11
+    }
+  },
+  {
+    "id": "qb_data-lemur_14",
+    "name": "IBM db2 Product Analytics",
+    "difficulty": "Easy",
+    "link": "https://datalemur.com/questions/sql-ibm-db2-product-analytics",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 215,
+    "qbOrder": {
+      "data-lemur": 14
+    }
+  },
+  {
+    "id": "qb_data-lemur_16",
+    "name": "Compressed Mean",
+    "difficulty": "Easy",
+    "link": "https://datalemur.com/questions/alibaba-compressed-mean",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 216,
+    "qbOrder": {
+      "data-lemur": 16
+    }
+  },
+  {
+    "id": "qb_data-lemur_17",
+    "name": "Pharmacy Analytics (Part 1)",
+    "difficulty": "Easy",
+    "link": "https://datalemur.com/questions/top-profitable-drugs",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 217,
+    "qbOrder": {
+      "data-lemur": 17
+    }
+  },
+  {
+    "id": "qb_data-lemur_18",
+    "name": "Pharmacy Analytics (Part 2)",
+    "difficulty": "Easy",
+    "link": "https://datalemur.com/questions/non-profitable-drugs",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 218,
+    "qbOrder": {
+      "data-lemur": 18
+    }
+  },
+  {
+    "id": "qb_data-lemur_19",
+    "name": "Pharmacy Analytics (Part 3)",
+    "difficulty": "Easy",
+    "link": "https://datalemur.com/questions/total-drugs-sales",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 219,
+    "qbOrder": {
+      "data-lemur": 19
+    }
+  },
+  {
+    "id": "qb_data-lemur_20",
+    "name": "Patient Support Analysis (Part 1)",
+    "difficulty": "Easy",
+    "link": "https://datalemur.com/questions/frequent-callers",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 220,
+    "qbOrder": {
+      "data-lemur": 20
+    }
+  },
+  {
+    "id": "qb_data-lemur_21",
+    "name": "User's Third Transaction",
+    "difficulty": "Medium",
+    "link": "https://datalemur.com/questions/sql-third-transaction",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 221,
+    "qbOrder": {
+      "data-lemur": 21
+    }
+  },
+  {
+    "id": "qb_data-lemur_23",
+    "name": "Sending vs. Opening Snaps",
+    "difficulty": "Medium",
+    "link": "https://datalemur.com/questions/time-spent-snaps",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 222,
+    "qbOrder": {
+      "data-lemur": 23
+    }
+  },
+  {
+    "id": "qb_data-lemur_26",
+    "name": "Top Three Salaries",
+    "difficulty": "Medium",
+    "link": "https://datalemur.com/questions/sql-top-three-salaries",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 223,
+    "qbOrder": {
+      "data-lemur": 26
+    }
+  },
+  {
+    "id": "qb_data-lemur_27",
+    "name": "Signup Activation Rate",
+    "difficulty": "Medium",
+    "link": "https://datalemur.com/questions/signup-confirmation-rate",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 224,
+    "qbOrder": {
+      "data-lemur": 27
+    }
+  },
+  {
+    "id": "qb_data-lemur_28",
+    "name": "Spotify Streaming History",
+    "difficulty": "Medium",
+    "link": "https://datalemur.com/questions/spotify-streaming-history",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 225,
+    "qbOrder": {
+      "data-lemur": 28
+    }
+  },
+  {
+    "id": "qb_data-lemur_31",
+    "name": "Swapped Food Delivery",
+    "difficulty": "Medium",
+    "link": "https://datalemur.com/questions/sql-swapped-food-delivery",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 226,
+    "qbOrder": {
+      "data-lemur": 31
+    }
+  },
+  {
+    "id": "qb_data-lemur_32",
+    "name": "FAANG Stock Min-Max (Part 1)",
+    "difficulty": "Medium",
+    "link": "https://datalemur.com/questions/sql-bloomberg-stock-min-max-1",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 227,
+    "qbOrder": {
+      "data-lemur": 32
+    }
+  },
+  {
+    "id": "qb_data-lemur_33",
+    "name": "Best-Selling Product",
+    "difficulty": "Medium",
+    "link": "https://datalemur.com/questions/best-selling-products",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 228,
+    "qbOrder": {
+      "data-lemur": 33
+    }
+  },
+  {
+    "id": "qb_data-lemur_36",
+    "name": "Compressed Mode",
+    "difficulty": "Medium",
+    "link": "https://datalemur.com/questions/alibaba-compressed-mode",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 229,
+    "qbOrder": {
+      "data-lemur": 36
+    }
+  },
+  {
+    "id": "qb_data-lemur_37",
+    "name": "Card Launch Success",
+    "difficulty": "Medium",
+    "link": "https://datalemur.com/questions/card-launch-success",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 230,
+    "qbOrder": {
+      "data-lemur": 37
+    }
+  },
+  {
+    "id": "qb_data-lemur_38",
+    "name": "International Call Percentage",
+    "difficulty": "Medium",
+    "link": "https://datalemur.com/questions/international-call-percentage",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 231,
+    "qbOrder": {
+      "data-lemur": 38
+    }
+  },
+  {
+    "id": "qb_data-lemur_39",
+    "name": "Patient Support Analysis (Part 2)",
+    "difficulty": "Medium",
+    "link": "https://datalemur.com/questions/uncategorized-calls-percentage",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 232,
+    "qbOrder": {
+      "data-lemur": 39
+    }
+  },
+  {
+    "id": "qb_data-lemur_42",
+    "name": "Maximize Prime Item Inventory",
+    "difficulty": "Hard",
+    "link": "https://datalemur.com/questions/prime-warehouse-storage",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 233,
+    "qbOrder": {
+      "data-lemur": 42
+    }
+  },
+  {
+    "id": "qb_data-lemur_43",
+    "name": "Median Google Search Frequency",
+    "difficulty": "Hard",
+    "link": "https://datalemur.com/questions/median-search-freq",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 234,
+    "qbOrder": {
+      "data-lemur": 43
+    }
+  },
+  {
+    "id": "qb_data-lemur_44",
+    "name": "Advertiser Status",
+    "difficulty": "Hard",
+    "link": "https://datalemur.com/questions/updated-status",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 235,
+    "qbOrder": {
+      "data-lemur": 44
+    }
+  },
+  {
+    "id": "qb_data-lemur_45",
+    "name": "Consecutive Filing Years",
+    "difficulty": "Hard",
+    "link": "https://datalemur.com/questions/consecutive-filing-years",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 236,
+    "qbOrder": {
+      "data-lemur": 45
+    }
+  },
+  {
+    "id": "qb_data-lemur_46",
+    "name": "Marketing Touch Streak",
+    "difficulty": "Hard",
+    "link": "https://datalemur.com/questions/marketing-touch-streak",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 237,
+    "qbOrder": {
+      "data-lemur": 46
+    }
+  },
+  {
+    "id": "qb_data-lemur_47",
+    "name": "3-Topping Pizzas",
+    "difficulty": "Hard",
+    "link": "https://datalemur.com/questions/pizzas-topping-cost",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 238,
+    "qbOrder": {
+      "data-lemur": 47
+    }
+  },
+  {
+    "id": "qb_data-lemur_48",
+    "name": "Patient Support Analysis (Part 3)",
+    "difficulty": "Hard",
+    "link": "https://datalemur.com/questions/patient-call-history",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 239,
+    "qbOrder": {
+      "data-lemur": 48
+    }
+  },
+  {
+    "id": "qb_data-lemur_49",
+    "name": "Patient Support Analysis (Part 4)",
+    "difficulty": "Hard",
+    "link": "https://datalemur.com/questions/long-calls-growth",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 240,
+    "qbOrder": {
+      "data-lemur": 49
+    }
+  },
+  {
+    "id": "qb_data-lemur_51",
+    "name": "Reactivated Users",
+    "difficulty": "Hard",
+    "link": "https://datalemur.com/questions/reactivated-users",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 241,
+    "qbOrder": {
+      "data-lemur": 51
+    }
+  },
+  {
+    "id": "qb_data-lemur_52",
+    "name": "Senior Managers",
+    "difficulty": "Hard",
+    "link": "https://datalemur.com/questions/senior-managers-reportees",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 242,
+    "qbOrder": {
+      "data-lemur": 52
+    }
+  },
+  {
+    "id": "qb_data-lemur_53",
+    "name": "Server Utilization Time",
+    "difficulty": "Hard",
+    "link": "https://datalemur.com/questions/total-utilization-time",
+    "tags": [
+      "Question Bank",
+      "data-lemur"
+    ],
+    "type": "link",
+    "globalOrder": 243,
+    "qbOrder": {
+      "data-lemur": 53
+    }
+  },
+  {
+    "id": "qb_stratascratch_0",
+    "name": "Find all posts which were reacted to with a heart",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/10087-find-all-posts-which-were-reacted-to-with-a-heart?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 244,
+    "qbOrder": {
+      "stratascratch": 0
+    }
+  },
+  {
+    "id": "qb_stratascratch_1",
+    "name": "Consecutive Days",
+    "difficulty": "Hard",
+    "link": "https://platform.stratascratch.com/coding/2054-consecutive-days?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 245,
+    "qbOrder": {
+      "stratascratch": 1
+    }
+  },
+  {
+    "id": "qb_stratascratch_2",
+    "name": "Best Selling Item",
+    "difficulty": "Hard",
+    "link": "https://platform.stratascratch.com/coding/10172-best-selling-item?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 246,
+    "qbOrder": {
+      "stratascratch": 2
+    }
+  },
+  {
+    "id": "qb_stratascratch_3",
+    "name": "Rank Variance Per Country",
+    "difficulty": "Hard",
+    "link": "https://platform.stratascratch.com/coding/2007-rank-variance-per-country?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 247,
+    "qbOrder": {
+      "stratascratch": 3
+    }
+  },
+  {
+    "id": "qb_stratascratch_4",
+    "name": "Finding Updated Records",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/10299-finding-updated-records?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 248,
+    "qbOrder": {
+      "stratascratch": 4
+    }
+  },
+  {
+    "id": "qb_stratascratch_8",
+    "name": "Total Cost Of Orders",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/10183-total-cost-of-orders?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 249,
+    "qbOrder": {
+      "stratascratch": 8
+    }
+  },
+  {
+    "id": "qb_stratascratch_9",
+    "name": "Workers With The Highest Salaries",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 250,
+    "qbOrder": {
+      "stratascratch": 9
+    }
+  },
+  {
+    "id": "qb_stratascratch_10",
+    "name": "Monthly Percentage Difference",
+    "difficulty": "Hard",
+    "link": "https://platform.stratascratch.com/coding/10319-monthly-percentage-difference?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 251,
+    "qbOrder": {
+      "stratascratch": 10
+    }
+  },
+  {
+    "id": "qb_stratascratch_11",
+    "name": "Average Salaries",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/9917-average-salaries?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 252,
+    "qbOrder": {
+      "stratascratch": 11
+    }
+  },
+  {
+    "id": "qb_stratascratch_12",
+    "name": "Risky Projects",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/10304-risky-projects?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 253,
+    "qbOrder": {
+      "stratascratch": 12
+    }
+  },
+  {
+    "id": "qb_stratascratch_13",
+    "name": "Finding Purchases",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/10553-finding-purchases?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 254,
+    "qbOrder": {
+      "stratascratch": 13
+    }
+  },
+  {
+    "id": "qb_stratascratch_15",
+    "name": "Number Of Units Per Nationality",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/10156-number-of-units-per-nationality?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 255,
+    "qbOrder": {
+      "stratascratch": 15
+    }
+  },
+  {
+    "id": "qb_stratascratch_16",
+    "name": "Find the number of inspections for each risk category by inspection type",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/10130-find-the-number-of-inspections-for-each-risk-category-by-inspection-type?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 256,
+    "qbOrder": {
+      "stratascratch": 16
+    }
+  },
+  {
+    "id": "qb_stratascratch_17",
+    "name": "Calculate Samantha's and Lisa's total sales revenue",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/10127-calculate-samanthas-and-lisas-total-sales-revenue?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 257,
+    "qbOrder": {
+      "stratascratch": 17
+    }
+  },
+  {
+    "id": "qb_stratascratch_18",
+    "name": "Find the percentage of shipable orders",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/10090-find-the-percentage-of-shipable-orders?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 258,
+    "qbOrder": {
+      "stratascratch": 18
+    }
+  },
+  {
+    "id": "qb_stratascratch_19",
+    "name": "Meta/Facebook Matching Users Pairs",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/10085-facebook-matching-users-pairs?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 259,
+    "qbOrder": {
+      "stratascratch": 19
+    }
+  },
+  {
+    "id": "qb_stratascratch_20",
+    "name": "Matching Similar Hosts and Guests",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/10078-find-matching-hosts-and-guests-in-a-way-that-they-are-both-of-the-same-gender-and-nationality?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 260,
+    "qbOrder": {
+      "stratascratch": 20
+    }
+  },
+  {
+    "id": "qb_stratascratch_21",
+    "name": "Income By Title and Gender",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/10077-income-by-title-and-gender?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 261,
+    "qbOrder": {
+      "stratascratch": 21
+    }
+  },
+  {
+    "id": "qb_stratascratch_22",
+    "name": "Top Cool Votes",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/10060-top-cool-votes?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 262,
+    "qbOrder": {
+      "stratascratch": 22
+    }
+  },
+  {
+    "id": "qb_stratascratch_23",
+    "name": "Reviews of Categories",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/10049-reviews-of-categories?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 263,
+    "qbOrder": {
+      "stratascratch": 23
+    }
+  },
+  {
+    "id": "qb_stratascratch_24",
+    "name": "Top Businesses With Most Reviews",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/10048-top-businesses-with-most-reviews?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 264,
+    "qbOrder": {
+      "stratascratch": 24
+    }
+  },
+  {
+    "id": "qb_stratascratch_25",
+    "name": "Find all possible varieties which occur in either of the winemag datasets",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/10025-find-all-possible-varieties-which-occur-in-either-of-the-winemag-datasets?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 265,
+    "qbOrder": {
+      "stratascratch": 25
+    }
+  },
+  {
+    "id": "qb_stratascratch_26",
+    "name": "Wine varieties tasted by 'Roger Voss'",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/10024-wine-varieties-tasted-by-roger-voss?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 266,
+    "qbOrder": {
+      "stratascratch": 26
+    }
+  },
+  {
+    "id": "qb_stratascratch_27",
+    "name": "Hour Of Highest Gas Expense",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/10005-hour-of-highest-gas-expense?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 267,
+    "qbOrder": {
+      "stratascratch": 27
+    }
+  },
+  {
+    "id": "qb_stratascratch_28",
+    "name": "Find all Lyft rides which happened on rainy days before noon",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/10004-find-all-lyft-rides-which-happened-on-rainy-days-before-noon?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 268,
+    "qbOrder": {
+      "stratascratch": 28
+    }
+  },
+  {
+    "id": "qb_stratascratch_29",
+    "name": "Lyft Driver Wages",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/10003-lyft-driver-wages?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 269,
+    "qbOrder": {
+      "stratascratch": 29
+    }
+  },
+  {
+    "id": "qb_stratascratch_30",
+    "name": "Artist Appearance Count",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/9992-find-artists-that-have-been-on-spotify-the-most-number-of-times?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 270,
+    "qbOrder": {
+      "stratascratch": 30
+    }
+  },
+  {
+    "id": "qb_stratascratch_31",
+    "name": "Top Ranked Songs",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/9991-top-ranked-songs?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 271,
+    "qbOrder": {
+      "stratascratch": 31
+    }
+  },
+  {
+    "id": "qb_stratascratch_32",
+    "name": "Olympics Events List By Age",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/9943-winter-olympics-events-list-by-height?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 272,
+    "qbOrder": {
+      "stratascratch": 32
+    }
+  },
+  {
+    "id": "qb_stratascratch_33",
+    "name": "Find all athletes who were older than 40 years when they won either Bronze or Silver medals",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/9937-find-all-athletes-who-were-older-than-40-years-when-they-won-either-bronze-or-silver-medals?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 273,
+    "qbOrder": {
+      "stratascratch": 33
+    }
+  },
+  {
+    "id": "qb_stratascratch_34",
+    "name": "Order Details",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/9913-order-details?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 274,
+    "qbOrder": {
+      "stratascratch": 34
+    }
+  },
+  {
+    "id": "qb_stratascratch_35",
+    "name": "Departments With 5 Employees",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/9911-departments-with-5-employees?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 275,
+    "qbOrder": {
+      "stratascratch": 35
+    }
+  },
+  {
+    "id": "qb_stratascratch_36",
+    "name": "Highest Target Under Manager",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/9905-highest-target-under-manager?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 276,
+    "qbOrder": {
+      "stratascratch": 36
+    }
+  },
+  {
+    "id": "qb_stratascratch_37",
+    "name": "Highest Salary In Department",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/9897-highest-salary-in-department?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 277,
+    "qbOrder": {
+      "stratascratch": 37
+    }
+  },
+  {
+    "id": "qb_stratascratch_38",
+    "name": "Employee and Manager Salaries",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/9894-employee-and-manager-salaries?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 278,
+    "qbOrder": {
+      "stratascratch": 38
+    }
+  },
+  {
+    "id": "qb_stratascratch_39",
+    "name": "Second Highest Salary",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/9892-second-highest-salary?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 279,
+    "qbOrder": {
+      "stratascratch": 39
+    }
+  },
+  {
+    "id": "qb_stratascratch_40",
+    "name": "Titanic Survivors and Non-Survivors",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/9881-make-a-report-showing-the-number-of-survivors-and-non-survivors-by-passenger-class?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 280,
+    "qbOrder": {
+      "stratascratch": 40
+    }
+  },
+  {
+    "id": "qb_stratascratch_41",
+    "name": "Duplicate HR Department Employees",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/9858-find-employees-in-the-hr-department-and-output-the-result-with-one-duplicate?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 281,
+    "qbOrder": {
+      "stratascratch": 41
+    }
+  },
+  {
+    "id": "qb_stratascratch_42",
+    "name": "Employees With the Same Salary",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/9856-find-employees-with-the-same-salary?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 282,
+    "qbOrder": {
+      "stratascratch": 42
+    }
+  },
+  {
+    "id": "qb_stratascratch_43",
+    "name": "April Admin Employees",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/9845-find-the-number-of-employees-working-in-the-admin-department?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 283,
+    "qbOrder": {
+      "stratascratch": 43
+    }
+  },
+  {
+    "id": "qb_stratascratch_44",
+    "name": "First Names With Six Letters Ending in 'h'",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/9842-find-all-workers-whose-first-name-contains-6-letters-and-also-ends-with-the-letter-h?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 284,
+    "qbOrder": {
+      "stratascratch": 44
+    }
+  },
+  {
+    "id": "qb_stratascratch_45",
+    "name": "Count Occurrences Of Words In Drafts",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/9817-find-the-number-of-times-each-word-appears-in-drafts?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 285,
+    "qbOrder": {
+      "stratascratch": 45
+    }
+  },
+  {
+    "id": "qb_stratascratch_46",
+    "name": "Counting Instances in Text",
+    "difficulty": "Hard",
+    "link": "https://platform.stratascratch.com/coding/9814-counting-instances-in-text?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 286,
+    "qbOrder": {
+      "stratascratch": 46
+    }
+  },
+  {
+    "id": "qb_stratascratch_47",
+    "name": "Make the friends network symmetric",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/9813-make-the-friends-network-symmetric?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 287,
+    "qbOrder": {
+      "stratascratch": 47
+    }
+  },
+  {
+    "id": "qb_stratascratch_48",
+    "name": "Find drafts which contains the word 'optimism'",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/9805-find-drafts-which-contains-the-word-optimism?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 288,
+    "qbOrder": {
+      "stratascratch": 48
+    }
+  },
+  {
+    "id": "qb_stratascratch_49",
+    "name": "Processed Ticket Rate By Type",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/9781-find-the-rate-of-processed-tickets-for-each-type?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 289,
+    "qbOrder": {
+      "stratascratch": 49
+    }
+  },
+  {
+    "id": "qb_stratascratch_50",
+    "name": "Number of violations",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/9728-inspections-that-resulted-in-violations?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 290,
+    "qbOrder": {
+      "stratascratch": 50
+    }
+  },
+  {
+    "id": "qb_stratascratch_51",
+    "name": "Inspection For Glassell Coffee Shop",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/9689-inspection-for-glassell-coffee-shop?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 291,
+    "qbOrder": {
+      "stratascratch": 51
+    }
+  },
+  {
+    "id": "qb_stratascratch_52",
+    "name": "Churro Activity Date",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/9688-churro-activity-date?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 292,
+    "qbOrder": {
+      "stratascratch": 52
+    }
+  },
+  {
+    "id": "qb_stratascratch_53",
+    "name": "Most Profitable Financial Company",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/9663-find-the-most-profitable-company-in-the-financial-sector-of-the-entire-world-along-with-its-continent?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 293,
+    "qbOrder": {
+      "stratascratch": 53
+    }
+  },
+  {
+    "id": "qb_stratascratch_54",
+    "name": "MacBookPro User Event Count",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/9653-count-the-number-of-user-events-performed-by-macbookpro-users?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 294,
+    "qbOrder": {
+      "stratascratch": 54
+    }
+  },
+  {
+    "id": "qb_stratascratch_55",
+    "name": "Top 10 Songs 2010",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/9650-find-the-top-10-ranked-songs-in-2010?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 295,
+    "qbOrder": {
+      "stratascratch": 55
+    }
+  },
+  {
+    "id": "qb_stratascratch_56",
+    "name": "Customers with Large Orders",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/2172-customers-with-large-orders?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 296,
+    "qbOrder": {
+      "stratascratch": 56
+    }
+  },
+  {
+    "id": "qb_stratascratch_57",
+    "name": "Department Workforce Analysis",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/2170-department-workforce-analysis?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 297,
+    "qbOrder": {
+      "stratascratch": 57
+    }
+  },
+  {
+    "id": "qb_stratascratch_58",
+    "name": "Contact Information Completeness",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/2169-contact-information-completeness?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 298,
+    "qbOrder": {
+      "stratascratch": 58
+    }
+  },
+  {
+    "id": "qb_stratascratch_59",
+    "name": "Users Missing Phone Numbers",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/2168-users-missing-phone-numbers?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 299,
+    "qbOrder": {
+      "stratascratch": 59
+    }
+  },
+  {
+    "id": "qb_stratascratch_60",
+    "name": "High Earners in Support Departments",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/2167-high-earners-in-support-departments?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 300,
+    "qbOrder": {
+      "stratascratch": 60
+    }
+  },
+  {
+    "id": "qb_stratascratch_61",
+    "name": "Salary Less Than Twice The Average",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/2110-salary-less-than-twice-the-average?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 301,
+    "qbOrder": {
+      "stratascratch": 61
+    }
+  },
+  {
+    "id": "qb_stratascratch_62",
+    "name": "Flags per Video",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/2102-flags-per-video?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 302,
+    "qbOrder": {
+      "stratascratch": 62
+    }
+  },
+  {
+    "id": "qb_stratascratch_63",
+    "name": "Maximum of Two Numbers",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/2101-maximum-of-two-numbers?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 303,
+    "qbOrder": {
+      "stratascratch": 63
+    }
+  },
+  {
+    "id": "qb_stratascratch_64",
+    "name": "Number of Shipments Per Month",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/2056-number-of-shipments-per-month?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 304,
+    "qbOrder": {
+      "stratascratch": 64
+    }
+  },
+  {
+    "id": "qb_stratascratch_65",
+    "name": "Unique Users Per Client Per Month",
+    "difficulty": "Easy",
+    "link": "https://platform.stratascratch.com/coding/2024-unique-users-per-client-per-month?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 305,
+    "qbOrder": {
+      "stratascratch": 65
+    }
+  },
+  {
+    "id": "qb_stratascratch_66",
+    "name": "Share of Active Users",
+    "difficulty": "Medium",
+    "link": "https://platform.stratascratch.com/coding/2005-share-of-active-users?code_type=3",
+    "tags": [
+      "Question Bank",
+      "stratascratch"
+    ],
+    "type": "link",
+    "globalOrder": 306,
+    "qbOrder": {
+      "stratascratch": 66
+    }
+  }
+]
